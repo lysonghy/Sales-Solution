@@ -1,4 +1,0 @@
-E:\Hy\web\OrderManagement\OrderManagement\Hy.Web.Common\bin\Debug\Hy.Web.Common.dll
-E:\Hy\web\OrderManagement\OrderManagement\Hy.Web.Common\bin\Debug\Hy.Web.Common.pdb
-E:\Hy\web\OrderManagement\OrderManagement\Hy.Web.Common\obj\Debug\Hy.Web.Common.dll
-E:\Hy\web\OrderManagement\OrderManagement\Hy.Web.Common\obj\Debug\Hy.Web.Common.pdb

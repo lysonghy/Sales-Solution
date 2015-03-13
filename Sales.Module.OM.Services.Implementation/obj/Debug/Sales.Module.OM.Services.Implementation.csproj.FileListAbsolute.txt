@@ -1,4 +1,0 @@
-C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Services.Implementation\bin\Debug\Hy.Module.OM.Services.Implementation.dll
-C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Services.Implementation\bin\Debug\Hy.Module.OM.Services.Implementation.pdb
-C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Services.Implementation\obj\Debug\Hy.Module.OM.Services.Implementation.dll
-C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Services.Implementation\obj\Debug\Hy.Module.OM.Services.Implementation.pdb
