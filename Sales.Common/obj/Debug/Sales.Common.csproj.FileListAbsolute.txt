@@ -1,0 +1,11 @@
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Common\bin\Debug\Hy.Common.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Common\bin\Debug\Hy.Common.pdb
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Common\obj\Debug\Hy.Common.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Common\obj\Debug\Hy.Common.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Common\obj\Debug\Sales.Common.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Common\obj\Debug\Hy.Common.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Common\obj\Debug\Hy.Common.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Common\bin\Debug\Hy.Common.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Common\bin\Debug\Hy.Common.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Common\bin\Debug\log4net.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Common\bin\Debug\log4net.xml

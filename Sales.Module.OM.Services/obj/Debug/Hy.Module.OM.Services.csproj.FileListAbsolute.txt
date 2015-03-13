@@ -1,0 +1,4 @@
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.Services\bin\Debug\Hy.Module.OM.Services.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.Services\bin\Debug\Hy.Module.OM.Services.pdb
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.Services\obj\Debug\Hy.Module.OM.Services.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.Services\obj\Debug\Hy.Module.OM.Services.pdb

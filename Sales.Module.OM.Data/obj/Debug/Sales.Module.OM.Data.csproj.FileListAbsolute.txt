@@ -1,0 +1,14 @@
+E:\Hy\web\OrderManagement\OrderManagement\Sales.Module.OM.Data\obj\Debug\Sales.Module.OM.Data.csprojResolveAssemblyReference.cache
+E:\Hy\web\OrderManagement\OrderManagement\Sales.Module.OM.Data\bin\Debug\Sales.Module.OM.Data.dll
+E:\Hy\web\OrderManagement\OrderManagement\Sales.Module.OM.Data\bin\Debug\Sales.Module.OM.Data.pdb
+E:\Hy\web\OrderManagement\OrderManagement\Sales.Module.OM.Data\bin\Debug\Sales.DAL.Common.dll
+E:\Hy\web\OrderManagement\OrderManagement\Sales.Module.OM.Data\bin\Debug\Sales.DAL.Common.pdb
+E:\Hy\web\OrderManagement\OrderManagement\Sales.Module.OM.Data\obj\Debug\Sales.Module.OM.Data.dll
+E:\Hy\web\OrderManagement\OrderManagement\Sales.Module.OM.Data\obj\Debug\Sales.Module.OM.Data.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Data\bin\Debug\Sales.Module.OM.Data.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Data\bin\Debug\Sales.Module.OM.Data.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Data\bin\Debug\Sales.DAL.Common.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Data\bin\Debug\Sales.DAL.Common.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Data\obj\Debug\Sales.Module.OM.Data.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Data\obj\Debug\Sales.Module.OM.Data.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.Data\obj\Debug\Sales.Module.OM.Data.pdb

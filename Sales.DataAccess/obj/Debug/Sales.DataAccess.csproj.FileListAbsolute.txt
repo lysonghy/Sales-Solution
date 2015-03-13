@@ -1,0 +1,10 @@
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\obj\Debug\Sales.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\bin\Debug\Sales.DataAccess.dll.config
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\bin\Debug\Sales.DataAccess.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\bin\Debug\Sales.DataAccess.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\obj\Debug\Sales.DataAccess.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DataAccess\obj\Debug\Sales.DataAccess.pdb

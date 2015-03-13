@@ -1,0 +1,5 @@
+E:\Hy\web\OrderManagement\OrderManagement\Hy.WebApi.Security.Default\bin\Debug\Hy.WebApi.Security.Default.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.WebApi.Security.Default\bin\Debug\Hy.WebApi.Security.Default.pdb
+E:\Hy\web\OrderManagement\OrderManagement\Hy.WebApi.Security.Default\obj\Debug\Hy.WebApi.Security.Default.csprojResolveAssemblyReference.cache
+E:\Hy\web\OrderManagement\OrderManagement\Hy.WebApi.Security.Default\obj\Debug\Hy.WebApi.Security.Default.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.WebApi.Security.Default\obj\Debug\Hy.WebApi.Security.Default.pdb

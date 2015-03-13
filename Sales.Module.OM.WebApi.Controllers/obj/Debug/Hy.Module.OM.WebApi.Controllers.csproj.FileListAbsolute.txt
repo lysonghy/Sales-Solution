@@ -1,0 +1,4 @@
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.WebApi.Controllers\bin\Debug\Hy.Module.OM.WebApi.Controllers.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.WebApi.Controllers\bin\Debug\Hy.Module.OM.WebApi.Controllers.pdb
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.WebApi.Controllers\obj\Debug\Hy.Module.OM.WebApi.Controllers.dll
+E:\Hy\web\OrderManagement\OrderManagement\Hy.Module.OM.WebApi.Controllers\obj\Debug\Hy.Module.OM.WebApi.Controllers.pdb

@@ -1,0 +1,10 @@
+E:\Hy\web\OrderManagement\OrderManagement\Sales.DAL.Common\bin\Debug\Sales.DAL.Common.dll
+E:\Hy\web\OrderManagement\OrderManagement\Sales.DAL.Common\bin\Debug\Sales.DAL.Common.pdb
+E:\Hy\web\OrderManagement\OrderManagement\Sales.DAL.Common\obj\Debug\Sales.DAL.Common.csprojResolveAssemblyReference.cache
+E:\Hy\web\OrderManagement\OrderManagement\Sales.DAL.Common\obj\Debug\Sales.DAL.Common.dll
+E:\Hy\web\OrderManagement\OrderManagement\Sales.DAL.Common\obj\Debug\Sales.DAL.Common.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DAL.Common\bin\Debug\Sales.DAL.Common.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DAL.Common\bin\Debug\Sales.DAL.Common.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DAL.Common\obj\Debug\Sales.DAL.Common.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DAL.Common\obj\Debug\Sales.DAL.Common.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.DAL.Common\obj\Debug\Sales.DAL.Common.pdb

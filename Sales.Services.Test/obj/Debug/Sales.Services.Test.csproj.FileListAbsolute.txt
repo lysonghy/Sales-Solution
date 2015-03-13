@@ -1,0 +1,16 @@
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\Sales.Services.Test.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\Sales.Services.Test.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\obj\Debug\Sales.Services.Test.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\obj\Debug\Sales.Services.Test.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\obj\Debug\Sales.Services.Test.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\Sales.Services.Test.dll.config
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\EntityFramework.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\nunit.framework.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\Sales.DataAccess.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\Sales.Services.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\Sales.DataAccess.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\Sales.Services.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\EntityFramework.xml
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Services.Test\bin\Debug\nunit.framework.xml
