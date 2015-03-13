@@ -1,0 +1,10 @@
+E:\Hy\web\OrderManagement\OrderManagement\DB-OrderManagement\bin\Debug\DB-OrderManagement.dacpac
+E:\Hy\web\OrderManagement\OrderManagement\DB-OrderManagement\bin\Debug\DB_OrderManagement.dll
+E:\Hy\web\OrderManagement\OrderManagement\DB-OrderManagement\bin\Debug\DB_OrderManagement.pdb
+E:\Hy\web\OrderManagement\OrderManagement\DB-OrderManagement\obj\Debug\DB_OrderManagement.dll
+E:\Hy\web\OrderManagement\OrderManagement\DB-OrderManagement\obj\Debug\DB_OrderManagement.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\DB-OrderManagement\bin\Debug\DB-OrderManagement.dacpac
+C:\Users\SOHY\Desktop\Sales-Solution\DB-OrderManagement\bin\Debug\DB_OrderManagement.dll
+C:\Users\SOHY\Desktop\Sales-Solution\DB-OrderManagement\bin\Debug\DB_OrderManagement.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\DB-OrderManagement\obj\Debug\DB_OrderManagement.dll
+C:\Users\SOHY\Desktop\Sales-Solution\DB-OrderManagement\obj\Debug\DB_OrderManagement.pdb

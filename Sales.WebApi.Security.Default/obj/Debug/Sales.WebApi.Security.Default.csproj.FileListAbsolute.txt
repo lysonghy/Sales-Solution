@@ -1,0 +1,4 @@
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.WebApi.Security.Default\bin\Debug\Hy.WebApi.Security.Default.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.WebApi.Security.Default\bin\Debug\Hy.WebApi.Security.Default.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.WebApi.Security.Default\obj\Debug\Hy.WebApi.Security.Default.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.WebApi.Security.Default\obj\Debug\Hy.WebApi.Security.Default.pdb

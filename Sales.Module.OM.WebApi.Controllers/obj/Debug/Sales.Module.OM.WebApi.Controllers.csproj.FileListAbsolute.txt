@@ -1,0 +1,5 @@
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.WebApi.Controllers\bin\Debug\Hy.Module.OM.WebApi.Controllers.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.WebApi.Controllers\bin\Debug\Hy.Module.OM.WebApi.Controllers.pdb
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.WebApi.Controllers\obj\Debug\Sales.Module.OM.WebApi.Controllers.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.WebApi.Controllers\obj\Debug\Hy.Module.OM.WebApi.Controllers.dll
+C:\Users\SOHY\Desktop\Sales-Solution\Sales.Module.OM.WebApi.Controllers\obj\Debug\Hy.Module.OM.WebApi.Controllers.pdb
